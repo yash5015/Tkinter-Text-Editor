@@ -1,0 +1,5 @@
+yash, 18, yash@gmail.com, Male, student, YES
+yash, 2, rohit@gh.com, Male, student, YES
+yash, ad, fdad, Male, , YES
+yash, 1, wqrew, Male, , YES
+, , , Male, , NO
